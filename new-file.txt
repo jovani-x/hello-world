@@ -1,3 +1,4 @@
 some text message
 
 change 7
+change 6
